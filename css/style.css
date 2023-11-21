@@ -8,9 +8,7 @@ margin-left: 20px;
 
 p	{
 color: blue;
-padding: 10px;
-width: 50px;
-height: 50px;
+padding: 80px;
 }
 
 li 	{
@@ -44,5 +42,7 @@ font-weight: bold;
 }
 
 img	{
+width: 550px;
+height: 300px;
 border: 5px solid #555;
 }
